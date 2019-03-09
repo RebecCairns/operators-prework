@@ -1,5 +1,5 @@
 def unsafe?(speed)
-return true if 
+return true if >= 60
 end
 
 
